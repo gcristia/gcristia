@@ -1,7 +1,7 @@
 
     █▀▀ █░█ █░░ █░░ ▄▄ █▀ ▀█▀ ▄▀█ █▀▀ █▄▀   █▀ █▀█ █▀▀ ▀█▀ █░█░█ ▄▀█ █▀█ █▀▀   █▀▀ █▄░█ █▀▀ █ █▄░█ █▀▀ █▀▀ █▀█
     █▀░ █▄█ █▄▄ █▄▄ ░░ ▄█ ░█░ █▀█ █▄▄ █░█   ▄█ █▄█ █▀░ ░█░ ▀▄▀▄▀ █▀█ █▀▄ ██▄   ██▄ █░▀█ █▄█ █ █░▀█ ██▄ ██▄ █▀▄
-###  Hi all, I'm Gustavo 👋
+###  Hi all, I'm Gustavo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 A professional software developer with 5+ years 🚀 of IT experiences working with patterns and best practices, trained 
 to develop web and mobile applications with end-user experience, teamwork abilities, proactive, self-motivation, quick 
@@ -11,6 +11,16 @@ learning, sound reasoning, and problem-solving skills.
 - 💬 Ask me about algorithms, apps development, and good practices
 - 📫 How to reach me: ghccristia@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/gustavo-hurtado-cristia](https://www.linkedin.com/in/gustavo-hurtado-cristia/ "LinkedIn")
+
+## 📈 Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gcristia&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+</div>
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=gcristia.gcristia" alt="visitors">
+</div>
 
 <!--
 **gcristia/gcristia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
