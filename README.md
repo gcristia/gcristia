@@ -1,7 +1,7 @@
 
     █▀▀ █░█ █░░ █░░ ▄▄ █▀ ▀█▀ ▄▀█ █▀▀ █▄▀   █▀ █▀█ █▀▀ ▀█▀ █░█░█ ▄▀█ █▀█ █▀▀   █▀▀ █▄░█ █▀▀ █ █▄░█ █▀▀ █▀▀ █▀█
     █▀░ █▄█ █▄▄ █▄▄ ░░ ▄█ ░█░ █▀█ █▄▄ █░█   ▄█ █▄█ █▀░ ░█░ ▀▄▀▄▀ █▀█ █▀▄ ██▄   ██▄ █░▀█ █▄█ █ █░▀█ ██▄ ██▄ █▀▄
-###  Hi all, I'm Gustavo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+###  Hi all <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Gustavo
 <a href="https://twitter.com/gcristiac" ><img src="https://img.shields.io/twitter/follow/gcristiac.svg?style=social" /> </a>
 <br>
 
