@@ -15,9 +15,11 @@ learning, sound reasoning, and problem-solving skills.
 - 🔭 I’m currently working to improve my skills, and learning new technologies
 - 💬 Ask me about algorithms, apps development, and good practices
 - 📫 How to reach me: ghccristia@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/gustavo-hurtado-cristia](https://www.linkedin.com/in/gustavo-hurtado-cristia/ "LinkedIn")
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+- 💼 LinkedIn: [See Profile](https://www.linkedin.com/in/gustavo-hurtado-cristia/ "LinkedIn") 
+- 💻 In my spare time I practice in the online judges:
+  * Hackerearth : 👉 [See Profile](https://www.hackerearth.com/@ghccristia)
+  * Codewars : 👉 [See Profile](https://www.codewars.com/users/ghccristia)
+  * UVa Online Judge : 👉 [See Profile](https://uhunt.onlinejudge.org/id/1210764)
 
 ---
 
@@ -38,6 +40,8 @@ learning, sound reasoning, and problem-solving skills.
  
 
 <!--
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 **gcristia/gcristia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
