@@ -8,7 +8,7 @@
 [![Codewars ghccristia](https://www.codewars.com/users/ghccristia/badges/micro)](https://www.codewars.com/users/ghccristia) 
 <br>
 
-A professional software developer with 5+ years 🚀 of IT experiences working with patterns and best practices, trained 
+A professional software developer with 7+ years 🚀 of IT experiences working with patterns and best practices, trained 
 to develop web and mobile applications with end-user experience, teamwork abilities, proactive, self-motivation, quick 
 learning, sound reasoning, and problem-solving skills.
 
