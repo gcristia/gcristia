@@ -19,6 +19,7 @@ learning, sound reasoning, and problem-solving skills.
 - 💼 Google Dev: 👉 [See Profile](https://g.dev/ghccristia "GoogleDev")
 - 💻 In my spare time I practice in the online judges:
   * Hackerearth : 👉 [See Profile](https://www.hackerearth.com/@ghccristia)
+  * Codesignal : 👉 [See Profile](https://app.codesignal.com/profile/gcristia)
   * Codewars : 👉 [See Profile](https://www.codewars.com/users/ghccristia)
   * UVa Online Judge : 👉 [See Profile](https://uhunt.onlinejudge.org/id/1210764)
   * LeetCode : 👉 [See Profile](https://leetcode.com/gcristia)
