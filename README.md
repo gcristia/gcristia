@@ -32,6 +32,8 @@ learning, sound reasoning, and problem-solving skills.
 <!--<img src="https://github-readme-stats.vercel.app/api?username=gcristia&show_icons=true&hide_border=true" alt="Gustavo Hurtado Cristia's GitHub Stats" width="400">-->
 <img src="http://github-readme-streak-stats.herokuapp.com?user=gcristia" alt="visitors" width="400"> 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcristia&layout=compact&langs_count=10)
+
 </div>
 
 <div align="center">
