@@ -16,7 +16,7 @@ Professional software engineer with 4+ years of experience. Strong skills in var
 - 💼 LinkedIn: 👉 [See Profile](https://www.linkedin.com/in/gustavo-hurtado-cristia/ "LinkedIn") 
 - 💼 Google-Dev: 👉 [See Profile](https://g.dev/ghccristia "GoogleDev")
 - 💻 In my spare time I practice in the online judges:
-  * HackerRank:  👉 [See Profile](hhttps://www.hackerrank.com/gcristia)
+  * HackerRank:  👉 [See Profile](https://www.hackerrank.com/gcristia)
   * HackerEarth : 👉 [See Profile](https://www.hackerearth.com/@ghccristia)
   * Codesignal : 👉 [See Profile](https://app.codesignal.com/profile/gcristia)
   * Codewars : 👉 [See Profile](https://www.codewars.com/users/ghccristia)
