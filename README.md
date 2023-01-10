@@ -22,6 +22,7 @@ Professional software engineer with 4+ years of experience. Strong skills in var
   * Codewars : 👉 [See Profile](https://www.codewars.com/users/ghccristia)
   * UVa Online Judge : 👉 [See Profile](https://uhunt.onlinejudge.org/id/1210764)
   * LeetCode : 👉 [See Profile](https://leetcode.com/gcristia)
+  * Exercism : 👉 [See Profile](https://exercism.org/profiles/ghccristia)
 
 ---
 
