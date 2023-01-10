@@ -8,7 +8,7 @@
 [![Codewars ghccristia](https://www.codewars.com/users/ghccristia/badges/micro)](https://www.codewars.com/users/ghccristia) 
 <br>
 
-As a professional software engineer with over 4 years of experience in the IT industry, I have honed my skills in various programming languages and technologies. My expertise includes a strong understanding of design patterns and best practices and proficiency in developing web and mobile applications with a focus on end-user experience. In addition to my technical skills, I am highly collaborative and excel in teamwork. I am proactive and self-motivated and have a track record of quickly learning and adapting to new technologies and concepts. I also possess strong problem-solving and reasoning abilities, enabling me to effectively troubleshoot and resolve issues.
+As a professional software engineer with over 4+ years of experience in the IT industry, I have honed my skills in various programming languages and technologies. My expertise includes a strong understanding of design patterns and best practices and proficiency in developing web and mobile applications with a focus on end-user experience. In addition to my technical skills, I am highly collaborative and excel in teamwork. I am proactive and self-motivated and have a track record of quickly learning and adapting to new technologies and concepts. I also possess strong problem-solving and reasoning abilities, enabling me to effectively troubleshoot and resolve issues.
 
 - 🔭 I’m currently working to improve my skills, and learn new technologies
 - 💬 Ask me about algorithms, apps development, and good practices
