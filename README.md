@@ -9,6 +9,8 @@ With over 10 years of experience in the IT industry, I bring deep technical expe
 I thrive in collaborative environments and have led cross-functional teams to success in fast-paced projects. Proactive and self-motivated, I adapt quickly to new technologies and challenges, consistently delivering value through thoughtful problem-solving and strategic thinking.
 Driven by impact, I focus on combining technical excellence with a strong understanding of user needs and business goals.
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/ghccristia)
+
 - 🔭 I’m currently working to improve my skills, and learn new technologies
 - 💬 Ask me about algorithms, apps development, and good practices
 - 📫 How to reach me: ghccristia@gmail.com
