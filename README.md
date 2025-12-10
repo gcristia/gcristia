@@ -27,7 +27,7 @@ Driven by impact, I focus on combining technical excellence with a strong unders
   * CSSBattle : 👉 [See Profile](https://cssbattle.dev/player/ghccristia)
 
 ---
-
+<!--
 ## 📈 Stats
 
 <div align="center">
@@ -41,7 +41,7 @@ Driven by impact, I focus on combining technical excellence with a strong unders
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=gcristia.gcristia" alt="visitors">
 </div>
- 
+ -->
  
 
  
