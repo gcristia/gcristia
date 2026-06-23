@@ -19,7 +19,7 @@ Driven by impact, I focus on combining technical excellence with a strong unders
 - 💻 In my spare time, I practice in the online judges:
   * HackerRank:  👉 [See Profile](https://www.hackerrank.com/gcristia)
   * HackerEarth : 👉 [See Profile](https://www.hackerearth.com/@ghccristia)
-  * Codesignal : 👉 [See Profile](https://app.codesignal.com/profile/gcristia)
+  * Codesignal : 👉 [See Profile](https://codesignal.com/learn/profile/clu9cx9f400033bb6dtn41xql)
   * Codewars : 👉 [See Profile](https://www.codewars.com/users/ghccristia)
   * UVa Online Judge : 👉 [See Profile](https://uhunt.onlinejudge.org/id/1210764)
   * LeetCode : 👉 [See Profile](https://leetcode.com/gcristia)
