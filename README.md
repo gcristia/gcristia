@@ -25,6 +25,7 @@ Driven by impact, I focus on combining technical excellence with a strong unders
   * LeetCode : 👉 [See Profile](https://leetcode.com/gcristia)
   * Exercism : 👉 [See Profile](https://exercism.org/profiles/ghccristia)
   * CSSBattle : 👉 [See Profile](https://cssbattle.dev/player/ghccristia)
+  * Coding Challenges : 👉 [See Profile](https://coding-challenges.dev/profile/bicarbonato)
 
 ---
 <!--
